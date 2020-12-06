@@ -1,0 +1,4 @@
+﻿cl : 命令行 warning D9002: 忽略未知选项“-march=native”
+  md5.cpp
+    正在创建库 C:\Users\风潇\Desktop\git\MD5Gif\\MD5Gif\bin\x64\Debug\net5.0\MD5.lib 和对象 C:\Users\风潇\Desktop\git\MD5Gif\\MD5Gif\bin\x64\Debug\net5.0\MD5.exp
+  MD5.vcxproj -> C:\Users\风潇\Desktop\git\MD5Gif\MD5Gif\bin\x64\Debug\net5.0\MD5.dll
